@@ -1,5 +1,4 @@
-border = '#' * 40
-
+# Written by Kai South 2021
 
 def total_revenue_solver():
     price = []
